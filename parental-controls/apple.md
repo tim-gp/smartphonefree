@@ -163,18 +163,18 @@ The **Mobile Data** section in **⚙️ Settings** lets you control which applic
 [Focus Modes](https://support.apple.com/en-gb/guide/iphone/iphd6288a67f/ios) let you control which contacts and apps are allowed to notify you. You can also customise the Lock and Home screens and Apple Watch face, and set the Focus to enable automatically on a schedule (perfect for school)
 
 ## Notes for Apple
-Hi Apple! If you ever read this, please could you please improve Screen Time in the following ways so that your devices can be made safer for chldren and adolescents. 
+Hi Apple! If you ever read this, please could you please improve Screen Time in the following ways so that your devices can be made safer for children and adolescents. 
 
 Currently Screen Time feels like it's designed to be permissive by default, but on a device for children restrictive settings should be the default. 
 
 Here's are my most wanted improvements.
-1. Make it more responsive, often it takes more than 10s for the acitivy report to refresh and you have to go in and out of the screen to cause a refresh
+1. Make it more responsive, often it takes more than 10s for the activity report to refresh and you have to go in and out of the screen to cause a refresh
 1. Support Face ID / Touch ID for unlocking Screen Time rather than a passcode. Much harder for my child to bypass a biometric
 1. Provide a Control Center widget to enable / disable Downtime quickly, one per child
 1. Add a feature where only **Allowed** apps appear on the home screen and app library, include the ability to make any default Apple app inaccessible, including ⚙️ Settings
 1. Make the "One more minute" feature configurable, default to off.
 1. Make it possible to disable group chats in Messages
 1. Allow multiple Downtime schedules in a day, I would like 18:30 - 08:00 AND 08:30 - 14:55 to cover overnight AND my child's school day.
-1. In Always Allowed, provide seperate sets of Specific Contacts for Phone, Messages and Facetime. I want to have a different list of people for each of those apps that my child can contact during Downtime
-1. Provide a ready-made child profile that uses Screen Time to make a restricted iPhone that only contains the following apps: Phone, Messages (no groups), Facetime, Camera, Photos, Maps and Find My. From this starting point, the Screen Time settings could be adjusted to add more features and functions as needed. 
+1. In Always Allowed, provide separate sets of Specific Contacts for Phone, Messages and FaceTime. I want to have a different list of people for each of those apps that my child can contact during Downtime
+1. Provide a ready-made child profile that uses Screen Time to make a restricted iPhone that only contains the following apps: Phone, Messages (no groups), FaceTime, Camera, Photos, Maps and Find My. From this starting point, the Screen Time settings could be adjusted to add more features and functions as needed. 
 1. Make is possible to prevent changes all aspects of ⚙️ Settings
